@@ -1,0 +1,97 @@
+manufacturer,hq_country,year,global_ev_sales,global_market_share_pct,powertrain_type,key_models
+BYD,China,2015,61722,11.0,BEV+PHEV,e6/Qin
+Tesla,USA,2015,50580,9.0,BEV,Model S/X
+SAIC-GM-Wuling,China,2015,22000,3.9,BEV,Baojun E100
+Nissan,Japan,2015,43056,7.7,BEV,Leaf
+Volkswagen Group,Germany,2015,30000,5.3,BEV+PHEV,e-Golf/Passat GTE
+BMW Group,Germany,2015,43000,7.7,BEV+PHEV,i3/i8/225xe
+Mitsubishi,Japan,2015,30000,5.3,PHEV,Outlander PHEV
+Renault,France,2015,23000,4.1,BEV,Zoe
+GM,USA,2015,17000,3.0,BEV+PHEV,Volt/Spark
+Others,Global,2015,239642,42.7,Mixed,Various
+BYD,China,2016,100183,12.4,BEV+PHEV,e6/Qin/Tang
+Tesla,USA,2016,76243,9.4,BEV,Model S/X/3(late)
+SAIC-GM-Wuling,China,2016,35000,4.3,BEV,Baojun E100
+Nissan,Japan,2016,45697,5.6,BEV,Leaf
+Volkswagen Group,Germany,2016,60000,7.4,BEV+PHEV,e-Golf/Passat GTE
+BMW Group,Germany,2016,62000,7.7,BEV+PHEV,i3/i8/225xe
+Mitsubishi,Japan,2016,37000,4.6,PHEV,Outlander PHEV
+Renault,France,2016,26000,3.2,BEV,Zoe
+GM,USA,2016,25000,3.1,BEV+PHEV,Bolt/Volt
+Others,Global,2016,283877,35.1,Mixed,Various
+BYD,China,2017,113669,9.5,BEV+PHEV,Song/Tang/e6
+Tesla,USA,2017,103091,8.6,BEV,Model S/X/3
+SAIC-GM-Wuling,China,2017,80000,6.7,BEV,Baojun E100/E200
+Nissan,Japan,2017,52492,4.4,BEV,Leaf
+Volkswagen Group,Germany,2017,100000,8.3,BEV+PHEV,e-Golf/Passat GTE
+BMW Group,Germany,2017,103080,8.6,BEV+PHEV,i3/530e/740e
+Mitsubishi,Japan,2017,44000,3.7,PHEV,Outlander PHEV
+Renault,France,2017,36000,3.0,BEV,Zoe
+Hyundai-Kia,South Korea,2017,43000,3.6,BEV+PHEV,Ioniq/Niro
+Others,Global,2017,524668,43.7,Mixed,Various
+BYD,China,2018,247811,12.1,BEV+PHEV,Song/Han/Tang
+Tesla,USA,2018,245506,12.0,BEV,Model 3/S/X
+SAIC-GM-Wuling,China,2018,140000,6.8,BEV,Baojun E200
+Nissan,Japan,2018,87149,4.2,BEV,Leaf
+Volkswagen Group,Germany,2018,160000,7.8,BEV+PHEV,e-Golf/e-Up
+BMW Group,Germany,2018,140155,6.8,BEV+PHEV,i3/530e/745e
+Mitsubishi,Japan,2018,50000,2.4,PHEV,Outlander PHEV
+Renault,France,2018,51000,2.5,BEV,Zoe
+Hyundai-Kia,South Korea,2018,75000,3.7,BEV+PHEV,Kona/Niro
+Others,Global,2018,848379,41.4,Mixed,Various
+BYD,China,2019,219353,10.5,BEV+PHEV,Song/Han/Tang
+Tesla,USA,2019,367500,17.6,BEV,Model 3/S/X/Y
+SAIC-GM-Wuling,China,2019,120000,5.8,BEV,Baojun E200/E300
+Nissan,Japan,2019,64000,3.1,BEV,Leaf
+Volkswagen Group,Germany,2019,160000,7.7,BEV+PHEV,e-Golf/ID.3(late)
+BMW Group,Germany,2019,145079,7.0,BEV+PHEV,i3/530e/745e
+Renault,France,2019,55000,2.6,BEV,Zoe
+Hyundai-Kia,South Korea,2019,90000,4.3,BEV+PHEV,Kona/Niro
+Others,Global,2019,863068,41.5,Mixed,Various
+BYD,China,2020,162533,5.5,BEV+PHEV,Han/Song/Tang
+Tesla,USA,2020,499550,16.7,BEV,Model 3/Y/S/X
+SAIC-GM-Wuling,China,2020,269000,9.0,BEV,Mini EV/Baojun
+Nissan,Japan,2020,55000,1.8,BEV,Leaf
+Volkswagen Group,Germany,2020,422000,14.2,BEV+PHEV,ID.3/ID.4/e-Golf
+BMW Group,Germany,2020,192646,6.5,BEV+PHEV,i3/iX3/530e
+Renault,France,2020,87000,2.9,BEV,Zoe
+Hyundai-Kia,South Korea,2020,140000,4.7,BEV+PHEV,Kona/Ioniq5
+Stellantis,Global,2020,90000,3.0,BEV+PHEV,208/DS3
+Others,Global,2020,963271,32.3,Mixed,Various
+BYD,China,2021,593745,9.0,BEV+PHEV,Han/Song/Dolphin
+Tesla,USA,2021,936172,14.2,BEV,Model 3/Y/S/X
+SAIC-GM-Wuling,China,2021,457000,6.9,BEV,Mini EV/Baojun
+Volkswagen Group,Germany,2021,762000,11.5,BEV+PHEV,ID.3/ID.4/Tiguan PHEV
+BMW Group,Germany,2021,328000,5.0,BEV+PHEV,iX/i4/i3/530e
+Hyundai-Kia,South Korea,2021,280000,4.2,BEV+PHEV,Ioniq5/EV6
+Stellantis,Global,2021,186000,2.8,BEV+PHEV,208/Jeep 4xe
+Renault,France,2021,141000,2.1,BEV,Zoe/Megane
+Others,Global,2021,3115083,47.2,Mixed,Various
+BYD,China,2022,1863494,18.3,BEV+PHEV,Han/Atto3/Seal/Dolphin
+Tesla,USA,2022,1313851,12.9,BEV,Model 3/Y/S/X
+SAIC-GM-Wuling,China,2022,550000,5.4,BEV,Mini EV/Baojun
+Volkswagen Group,Germany,2022,572100,5.6,BEV+PHEV,ID.4/ID.3/Tiguan
+BMW Group,Germany,2022,394000,3.9,BEV+PHEV,iX/i4/i7/530e
+Hyundai-Kia,South Korea,2022,400000,3.9,BEV+PHEV,Ioniq5/EV6/Kona
+Stellantis,Global,2022,293000,2.9,BEV+PHEV,208/Jeep/Peugeot
+Geely-Volvo,China,2022,320000,3.1,BEV+PHEV,Zeekr/Polestar/Lynk
+Others,Global,2022,4494555,44.1,Mixed,Various
+BYD,China,2023,3024417,22.1,BEV+PHEV,Han/Seal/Seagull/Atto3
+Tesla,USA,2023,1808581,13.2,BEV,Model 3/Y/S/X/Cybertruck
+SAIC-GM-Wuling,China,2023,600000,4.4,BEV,Mini EV/Baojun
+Volkswagen Group,Germany,2023,771100,5.6,BEV+PHEV,ID.4/ID.7/ID.3
+BMW Group,Germany,2023,570000,4.2,BEV+PHEV,iX/i4/i5/530e
+Hyundai-Kia,South Korea,2023,570000,4.2,BEV+PHEV,Ioniq6/EV9/Kona
+Stellantis,Global,2023,360000,2.6,BEV+PHEV,208/Jeep/Ram
+Geely-Volvo,China,2023,690000,5.0,BEV+PHEV,Zeekr/Polestar/Lynk
+Others,Global,2023,5305902,38.7,Mixed,Various
+BYD,China,2024,4272145,24.4,BEV+PHEV,Han/Seal/Seagull/Atto3/Shark
+Tesla,USA,2024,1789226,10.2,BEV,Model 3/Y/S/X/Cybertruck
+SAIC-GM-Wuling,China,2024,700000,4.0,BEV,Mini EV/Baojun
+Volkswagen Group,Germany,2024,744800,4.3,BEV+PHEV,ID.4/ID.7/ID.3
+BMW Group,Germany,2024,700000,4.0,BEV+PHEV,iX/i4/i5/i7
+Hyundai-Kia,South Korea,2024,720000,4.1,BEV+PHEV,Ioniq6/EV9/Kona EV
+Stellantis,Global,2024,350000,2.0,BEV+PHEV,208/Jeep/Ram
+Geely-Volvo,China,2024,950000,5.4,BEV+PHEV,Zeekr/Polestar/Galaxy
+Chery,China,2024,540000,3.1,BEV+PHEV,Omoda/Jetour
+Others,Global,2024,5734829,32.8,Mixed,Various
